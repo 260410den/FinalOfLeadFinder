@@ -8,7 +8,7 @@ Anda dapat menggunakan aplikasi ini secara langsung melalui versi online, atau m
 
 | Pilihan Akses | Keterangan | Link / Tempat Akses |
 | :--- | :--- | :--- |
-| **🌐 Versi Online (Langsung Pakai)** | Langsung buka dari browser HP maupun laptop tanpa perlu instalasi apa pun. | `[masih dalam proses deploy]` |
+| **🌐 Versi Online (Langsung Pakai)** | Langsung buka dari browser HP maupun laptop tanpa perlu instalasi apa pun. | `[masih dalam proses deploy, coba local dlu aja]` |
 | **💻 Versi Mandiri (Download)** | Unduh folder proyek dari halaman GitHub ini (*Klik tombol hijau **Code** → **Download ZIP***) untuk dijalankan di komputer. | Repositori GitHub Ini |
 
 ## ⚖️ Perbandingan Versi Online vs. Versi Mandiri
